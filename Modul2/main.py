@@ -5,10 +5,11 @@ from nltk.corpus import words
 from nltk.corpus import wordnet
 from nltk import pos_tag
 from nltk.stem.porter import PorterStemmer
+import nltk
 import enchant
 
 import json
-
+#nltk.download()
 
 def isEnglish(text):
 	word_tokens = word_tokenize(text)
@@ -50,15 +51,15 @@ def breakSentenceInTokens(sentence, enDict):
 
 output_data = {}
 
-input_file = open("user_input", 'r')
-text = ""
-for line in input_file:
-	text += line.strip()
+
+text = "I am amazing."
+
 
 bool, unusual = isEnglish(text)
 if bool:
 	print("maybe english")
 	sentences = getSentences(text)
+	print sentences
 	englishDictionary = enchant.Dict("en_US")
 	i = 1
 	for sentence in sentences:
@@ -74,6 +75,7 @@ if bool:
 		for token in word_tokens:
 			output_data[key]['POS'][token] = pos_tag(token)
 			output_data[key]['LEM'][token] = porter_stemmer.stem(token)
+	print output_data
 
 else:
 	print("not English")

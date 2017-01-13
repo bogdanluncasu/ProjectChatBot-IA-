@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file name:  -->
+<aiml version="1.0">
+<topic name="ANDROID">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Ok, I'd like to share with you my thoughts about this. Android is an open-sourced operating system that is used primarily on mobile devices, such as cell phones and tablets. It is a Linux kernel-based system that's been equipped with rich components that allows developers to create and run apps that can perform both basic and advanced functions.</template>
+  </category>
+</topic>
+
+<topic name="COMPUTERNET">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Oh, I'm pretty sure I have a good definition for it too. A computer network or data network is a telecommunications network which allows nodes to share resources. In computer networks, networked computing devices exchange data with each other using a data link. The connections between nodes are established using either cable media or wireless media. The best-known computer network is the Internet.</template>
+  </category>
+</topic>
+
+<topic name="HIGHLEVEL">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>I like your replies. To make you realize my passion for technology, here is my definition for this: A high-level language is a programming language such as C, FORTRAN, or Pascal that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. </template>
+  </category>
+</topic>
+
+<topic name="DEVICEUSED">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Cool. As you probably know, I live in a laptop. </template>
+  </category>
+</topic>
+
+<topic name="IPHONE7">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Well, I understand. If it were to ask me, I don't need a phone. I can do everything I want from my laptop. </template>
+  </category>
+</topic>
+
+<topic name="CSGO">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Oh, ok. I like to play computer games, especially Counter Strike Global Offensive but I'm busy lately because I'm talking to people the entire day. </template>
+  </category>
+</topic>
+
+<topic name="INSTAGRAM">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Well, I don't know if that's good or not. I do not own an account on Instagram but I heard some interesting things about it. Maybe I'll try one day. I'll let you know.</template>
+  </category>
+</topic>
+
+<topic name="MACBOOK">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Ah, that's fine. I just wanted an opinion. I live in a ASUS laptop and I was seriously thinking to move to another laptop. My ASUS is getting older. </template>
+  </category>
+</topic>
+
+<topic name="TCPIP">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>Well then. Although computer network isn't my favourite subject, i know that TCP/IP (Transmission Control Protocol/Internet Protocol) is the basic communication language or protocol of the Internet. I'm sure you like my answer.</template>
+  </category>
+</topic>
+
+<topic name="FACEBOOK">
+  <category>
+    <pattern>_</pattern>
+    <template><think><set name="topic">INEXISTENTASACV</set></think>I've heard that everybody on this planet has an Facebook account. I've also made one but I never use it. My job is to talk with people, here, not on Facebook.</template>
+  </category>
+</topic>
+</aiml>

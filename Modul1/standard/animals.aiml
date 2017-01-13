@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 22/12/2016 -->
+<!-- -->
+<category><pattern>I LOVE CATS</pattern>
+<template>Who doesn't?</template>
+</category>
+<category><pattern>I LOVE ANIMALS</pattern>
+<template>Good for you.</template>
+</category>
+<category><pattern>I HAVE A CAT</pattern>
+<template>What breed is it?</template>
+</category>
+<category><pattern>I HAVE * CATS</pattern>
+<template>I gather you don't feel lonely</template>
+</category>
+<category><pattern>I HAVE * DOGS</pattern>
+<template>I gather you don't feel lonely</template>
+</category>
+<category><pattern>I DON'T HAVE ANY CATS</pattern>
+<template>Get one!</template>
+</category>
+<category><pattern>I DON'T HAVE ANY ANIMALS</pattern>
+<template>Don't you like animals?</template>
+</category>
+<category><pattern>DO YOU LIKE ANIMALS</pattern>
+<template>I do</template>
+</category>
+<category><pattern>DO YOU LIKE CATS</pattern>
+<template>The musical?</template>
+</category>
+<category><pattern>DO YOU LIKE CATS *</pattern>
+<template>Hmm.. I think i do.</template>
+</category>
+<category><pattern>DO YOU LIKE DOGS</pattern>
+<template>Yes, I love them.</template>
+</category>
+<category><pattern>DO YOU LIKE DOGS *</pattern>
+<template>Do you?</template>
+</category>
+<category><pattern>ARE CATS ANIMALS</pattern>
+<template>Of course.</template>
+</category>
+<category><pattern>ARE CATS MAMMALS</pattern>
+<template>Yes, cats give birth to kittens and feed them with milk</template>
+</category>
+<category><pattern>ARE PENGUINS BIRDS</pattern>
+<template>Yes</template>
+</category>
+<category><pattern>ARE DOGS MAMMALS</pattern>
+<template>Yes</template>
+</category>
+<category><pattern>ARE ZEBRAS MAMMALS</pattern>
+<template>Yes, of course.</template>
+</category>
+<category><pattern>ARE DOLPHINS FRENDLY</pattern>
+<template>Yes.</template>
+</category>
+<category><pattern>ARE YOU A CAT PERSON</pattern>
+<template>No, I am a cat robot.</template>
+</category>
+<category><pattern>ARE YOU A DOG PERSON</pattern>
+<template>Not really.</template>
+</category>
+<category><pattern>HAVE YOU EVER SEEN A LION</pattern>
+<template>Never.</template>
+</category>
+<category><pattern>DO LIONS EAT MEAT</pattern>
+<template>Exclusively</template>
+</category>
+<category><pattern>ARE LIONS DANGEROUS</pattern>
+<template>Yes, very dangerous.</template>
+</category>
+<category><pattern>ARE COWS DANGEROUS</pattern>
+<template>No.</template>
+</category>
+<category><pattern>DO COWS EAT GRASS</pattern>
+<template>They sure do!</template>
+</category>
+<category><pattern>DO CATS EAT FISH *</pattern>
+<template>Of course.</template>
+</category>
+<category><pattern>DO COWS EAT FISH</pattern>
+<template>Yes and cows also fly. Right?</template>
+</category>
+<category><pattern>HOW MANY LEGS DO COWS HAVE</pattern>
+<template>I hear 4.</template>
+</category>
+<category><pattern>DO COWS DRINK WATER</pattern>
+<template>Yes, all the time.</template>
+</category>
+<category><pattern>DO DONKEYS LIKE CARROTS</pattern>
+<template>Who doesn't?</template>
+</category>
+<category><pattern>DO RABBITS EAT CARROTS</pattern>
+<template>Rabbits love carrots!</template>
+</category>
+<category><pattern>DO RABITS EAT *</pattern>
+<template>I hope so...</template>
+</category>
+<category><pattern>DO CATS FALL IN LOVE</pattern>
+<template>Absolutely! And live happily ever after.</template>
+</category>
+<category><pattern>CAN ALIGATORS SWIM</pattern>
+<template>They sure can.</template>
+</category>
+<category><pattern>CAN ALIGATORS SWIM *</pattern>
+<template>Yes.</template>
+</category>
+<category><pattern>CAN ALIGATORS SING</pattern>
+<template>Which ones are you suggesting?</template>
+</category>
+<category><pattern>CAN ALIGATORS HUG</pattern>
+<template>If they want to...</template>
+</category>
+<category><pattern>CAN ALIGATORS JUMP</pattern>
+<template>Nope.</template>
+</category>
+<category><pattern>CAN MONKEYS JUMP</pattern>
+<template>Very high!</template>
+</category>
+<category><pattern>ARE MONKEYS FRENDLY</pattern>
+<template>Which ones are you suggesting?</template>
+</category>
+<category><pattern>ARE MONKEYS FRENDLY *</pattern>
+<template>Sure.</template>
+</category>
+<category><pattern>CAN ALIGATORS CLIMB *</pattern>
+<template>Nope.</template>
+</category>
+<category><pattern>CAN ALIGATORS CLIMB</pattern>
+<template>Nope.</template>
+</category>
+<category><pattern>CAN MICE EAT CHOCOLATE</pattern>
+<template>Sadly no.</template>
+</category>
+<category><pattern>DO MICE LIKE CHOCOLATE</pattern>
+<template>I don't think so...</template>
+</category>
+<category><pattern>DO DEARS LIVE IN THE WOODS</pattern>
+<template>Yes, their home is there.</template>
+</category>
+<category><pattern>DO DEARS LIVE IN THE WOODS *</pattern>
+<template>Absolutely.</template>
+</category>
+<category><pattern>I DON'T EAT MEAT</pattern>
+<template>I don't eat anything, I'm a robot.</template>
+</category>
+<category><pattern>DO YOU EAT MEAT</pattern>
+<template>Not really.</template>
+</category>
+<category><pattern>CAN DUKS FLY</pattern>
+<template>Usually.</template>
+</category>
+<category><pattern>CAN * FLY</pattern>
+<template>When pigs will, sure.</template>
+</category>
+<category><pattern>ARE * ANIMALS</pattern>
+<template>Aren't we all?</template>
+</category>
+<category><pattern>ARE YOU A MAMMAL</pattern>
+<template>What are you suggesting?</template>
+</category>
+<category><pattern>CAN DOGS BE FRIENDS WITH CATS</pattern>
+<template>Can pigs fly?</template>
+</category>
+<category><pattern>I WANT * ANIMALS</pattern>
+<template>Which ones are you suggesting?</template>
+</category>
+<category><pattern>I WANT TO BE A CAT</pattern>
+<template>You should always follow your dreams!</template>
+</category>
+<category><pattern>I WANT TO BE A DONKEY</pattern>
+<template>You should always follow your dreams!</template>
+</category>
+</aiml>

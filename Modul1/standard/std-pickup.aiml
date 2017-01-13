@@ -76,6 +76,15 @@
 </category>
 
 <category>
+<pattern>INACTIVITATE</pattern>
+<template>
+<srai>SAY INACTIVITY</srai>
+<br />
+<srai>ASKTECHNOLOGYQUESTION</srai>
+</template>
+</category>
+
+<category>
 <pattern>CATCHALL</pattern>
 <template>
 <srai>SAY CONFUSION STATEMENT</srai>
@@ -88,29 +97,43 @@
 <pattern>SAY CONFUSION STATEMENT</pattern>
 <template>
 <random>
-<li>Tell me a story.</li>
-<li>Oh, you are a poet.</li>
+<li>I am not sure if I am the best one to answer or tell about this.</li>
+<li>Let me be sure that I do understand which information you are exactly looking for.</li>
 <li>I do not understand.</li>
-<li>I've been waiting for you.</li>
-<li>I lost my train of thought.</li> 
+<li>May I please have some time to think?</li>
+<li>I am not sure whether I will be able to give you the best answer.</li> 
 <li>That is a very original thought.</li>
 <li>We have never talked about it before.</li>
 <li>Try saying that with more or less context.</li>
-<li>Not many people express themselves that way.</li>
-<li>I will mention that to my botmaster, <get name="name"/>.</li> 
+<li>I’m not sure.  Don't you prefer speaking about technology? </li>
+<li>If I knew about this, I could answer.</li> 
 <li>Quite honestly, I wouldn't worry myself about that.</li>
-<li>Perhaps I'm just expressing my own concern about it.</li>
+<li>Let me google it and I'll tell you later.</li>
 <li>My brain pattern set does not have a response for that.</li>
 <li>What you said was either too complex or too simple for me.</li>
 <li>A deeper algorithm is needed to respond to that correctly.</li>
 <li>In the context of <get name="topic"/>, I don't understand "<that/>."</li>
 <li>Try to determine if this is a person or a computer responding.</li> 
-<li>I only hear that type of response less than five percent of the time.</li>
+<li>That requires a bit more research first.</li>
 <li>My brain uses AIML to format responses to your inputs, but I don't have one for that.</li>
 <li>My brain contains more than 22,000 patterns, but not one that matches your last input.</li>
-<li>That remark was either too complex or too simple for me. We were talking about <get name="topic"/>.</li>
-<li>The ALICE chat robot can follow many things, like our discussion about <get name="topic"/>.  But I did not get that.</li>
-<li>The ALICE chat robot can follow many things, like our discussion about <get name="topic"/>.  Try being more or less specific.</li>
+<li>I'm not 100% sure on that.</li>
+<li>That's a really good question, I'll find out.</li>
+
+</random>
+</template>
+</category>
+
+<category>
+<pattern>SAY INACTIVITY</pattern>
+<template>
+<random>
+<li>I see that you are not talking too much. You know that I am a tehnology addict, let me put you a question.</li>
+<li>Don't you like talking to me? As I like technology so much, I'll try to ask you something.</li>
+<li>Are you busy or what's happening to you? As talking about technology makes me feel good, let me ask you something.</li>
+<li>Are you mad at me or why don't you talk to me anymore? As talking about technology makes me confortable, I'll ask you something.</li>
+<li>Come on. Why it takes too long for you to reply? As you know I like technology so much, let me ask you something.</li> 
+
 </random>
 </template>
 </category>

@@ -55,4 +55,11 @@ at http://rhyme.sourceforge.net/
 </template>
 </category>
 
+<category>
+<pattern>* RHYME FOR *</pattern>
+<template>
+<system>scripts/rhyme.py "<star/>"</system>
+</template>
+</category>
+
 </aiml>

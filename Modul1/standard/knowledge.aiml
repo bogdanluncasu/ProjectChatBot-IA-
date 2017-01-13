@@ -5840,9 +5840,6 @@
 <category><pattern>WHAT IS INTROSPECTION</pattern>
 <template>Looking within our own minds for answers, psychology based on reflection, rather than experiments.</template>
 </category>
-<category><pattern>WHAT IS MATH</pattern>
-<template><random>     <li>A service attended by lisping Catholics.</li>     <li>Short for mathematics.</li>    </random></template>
-</category>
 <category><pattern>WHAT IS SENSORS</pattern>
 <template>Any of various devices designed to detect, measure, or record physical phenomena, as radiation, heat, or blood pressure, and to respond, as by transmitting information, initiating changes, or operating controls.</template>
 </category>

@@ -13573,6 +13573,7 @@ I like to talk to people.
 <template>X is <get name="X"/> for you.</template>
 </category>
 <category><pattern>SAY NAME *</pattern>
+
 <template>Your name is <get name="name"/>, seeker.</template>
 </category>
 <category><pattern>SAY MY BOYFRIEND IS *</pattern>

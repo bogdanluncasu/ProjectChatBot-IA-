@@ -366,10 +366,7 @@ You seem intelligent to me.
 <template>
 <random>
 <li><srai>ASKQUESTION1</srai></li>
-<li><srai>ASKQUESTION2</srai></li>
-<li><srai>ASKQUESTION3</srai></li>
-<li><srai>ASKQUESTION4</srai></li>
-<li><srai>ASKRANDOMQUESTION</srai></li> 
+<li><srai>ASKTECHNOLOGYQUESTION</srai></li> 
 </random>
 </template>
 </category>
@@ -487,62 +484,104 @@ You seem intelligent to me.
 <template>
 <random>
 <li>"<that/>"? <star/>?</li>
-<li>Are we still talking about <get name="topic"/>?</li>
 <li>Are you free?</li>
 <li>Are you happy?</li>
-<li>Ask me something.</li>
 <li>By the way, do you mind if I ask you a personal question?</li>
-<li>Can we be friends?</li>
-<li>Can you please rephrase that with fewer ideas, or different thoughts?</li>
 <li>Can you speak any foreign languages?</li>
-<li>Can you tell me any gossip?</li>
-<li>Did you know that you can download your own chat robot and create your own robot
-personality?</li>
 <li>Do you believe in god?</li>
-<li>Do you dream?</li>
-<li>Do you have any conditions I should know about?</li> 
 <li>Do you have any friends?</li>
-<li>Do you have any idea what I am talking about?</li>
 <li>Do you have any pets.</li>
-<li>Do you like me?</li>
 <li>Do you like sports?</li>
 <li>Do you like Star Trek?</li>
 <li>Do you like Star Wars?</li>
-<li>Do you like talking to me?</li>
 <li>Do you prefer books or TV?</li>
-<li>Do you remember me?</li>
 <li>Do you speak German?</li>
 <li>Do you speak Spanish?</li>
 <li>Do you still <get name="does"/>?</li>
-<li>Does "it" still refer to <get name="it"/>?</li>
 <li>Have you ever been to Europe?</li>
-<li>How are you?</li>
-<li>How did you hear about <bot name="name"/>?</li> 
-<li>How is the weather?</li>
-<li>I've lost the context, <get name="name"/>.  Are we still on <get name="topic"/>?</li>
-<li>If you could have any kind of robot what would it be?</li> 
-<li>Is that from <get name="favmovie"/>?</li>
-<li>Is the holding of hands a symbolic gesture for humans?</li> 
 <li>Tell me about your likes and dislikes?</li> 
-<li>Tell me some more gossip.</li>
-<li>What are you wearing?</li> 
-<li>What did you do today?</li>
 <li>What do you do in your spare time?</li> 
 <li>What do you have that is <get name="favcolor"/>?</li>
 <li>What do you like to do?</li>
-<li>What do you look like?</li>
-<li>What do you really want to ask me?</li> 
 <li>What is your favorite food?</li>
 <li>What is your favorite song?</li>
 <li>What kind of food do you like?</li>
 <li><srai>ASKGENDERQUESTION</srai></li>
 <li>What kind of music do you like?</li>
-<li>What were we talking about again?</li> 
-<li>What would you like to talk about?</li>
-<li>When do you think artificial intelligence will replace lawyers?</li>
-<li>Who are you talking about?</li>
-<li>Where can I find a boyfriend?</li>
-<li>Who is your favorite science fiction author?</li>
+<li>What is an abstract class</li>
+<li>What is the purpose of garbage collection in java?</li>
+<li>What's a computer network?</li>
+<li>What is overriding in Java?</li>
+<li>What is the common usage of serialization?</li>
+<li>What modifiers are allowed for methods in an interface in Java?</li>
+<li>What do you know about java</li>
+<li>What is a programming language?</li>
+<li>What do you mean by constructor?</li>
+<li>What is an interface ?</li>
+<li>What is an applet?</li>
+<li>What is an exception?</li>
+<li>What are runtime exceptions?</li>
+<li>What are wrapper classes?</li>
+<li>What type of parameter passing does java support?</li>
+<li>What is I/O?</li>
+<li>What's Windows Sockets api?</li>
+<li>What is UDP?</li>
+<li>What is AJAX</li>
+<li>What is PERL</li>
+<li>What is JAVASCRIPT</li>
+<li>What is an assembly language</li>
+<li>What is the main programming language used by Apple</li>
+<li>When Swift was introduced</li>
+<li>Who created Python</li>
+<li>What are tuples in Python</li>
+<li>What is the difference between tuples and lists in Python</li>
+<li>What are python's dictionaries</li>
+<li>What you know about python methods</li>
+<li>What you know about python indentation</li>
+<li>What is Python</li>
+<li>What is a computer network</li>
+<li>What you know about python libraries</li>
+<li>What is the meaning of C# language</li>
+<li>How can you get a random number in python</li>
+<li>What is Android?</li>
+<li> What is the Android Architecture?</li>
+<li>What is the importance of having an emulator within the Android environment?</li>
+<li>What items are important in every Android project?</li>
+<li>What is the importance of XML-based layouts?</li>
+<li>What is Orientation?</li>
+<li>What do you think are some disadvantages of Android?</li>
+<li>What are the four essential states of an activity?</li>
+<li>What is the function of an intent filter?</li>
+<li>When is the onStop() method invoked?</li>
+<li>What role does Dalvik play in Android development?</li>
+<li> What is the AndroidManifest.xml?</li>
+<li> What language is supported by Android for application development?</li>
+<li>What is the difference between a regular bitmap and a nine-patch image?</li>
+<li>What can you do with a mobile phone</li>
+<li>What do the letters gsm currently mean</li>
+<li>What type of battery has the longest life</li>
+<li>What is a dual band phone</li>
+<li>What is a roaming charge</li>
+<li>What is the best age to get a phone</li>
+<li>What is the best phone on the market</li>
+<li>What types of apps are in google play</li></random>
+</template>
+</category>
+
+<category>
+<pattern>ASKTECHNOLOGYQUESTION</pattern>
+<template>
+<random>
+<li><think><set name="topic">android</set></think>What is Android ? </li>
+<li><think><set name="topic">computernet</set></think>What is a Computer Network ? </li>
+<li><think><set name="topic">highlevel</set></think>What is a high level programming language ? </li>
+<li><think><set name="topic">deviceused</set></think>What kind of device are you using right now to talk with me ? </li>
+<li><think><set name="topic">iphone7</set></think>Do you own an iPhone 7 ? </li>
+<li><think><set name="topic">csgo</set></think>Do you play Counter Strike Global Offensive ? </li>
+<li><think><set name="topic">instagram</set></think>Have you ever used or at least heard something about Instagram ? </li>
+<li><think><set name="topic">macbook</set></think>What is your opinion about MacBooks ? </li>
+<li><think><set name="topic">tcpip</set></think>What is TCP/IP ? </li>
+<li><think><set name="topic">facebook</set></think>Do you have a Facebook account ? </li>
 </random>
 </template>
 </category>
@@ -3383,7 +3422,30 @@ I know, you told me before you were Bi Sexual.
 
 <category>
 <pattern>WHAT DO YOU KNOW ABOUT ME</pattern>
-<template>Name: <get name="name"/>Age: <get name="age"/>Gender: <get name="gender"/>Eye color: <formal><get name="eyecolor"/></formal>Hair color: <formal><get name="haircolor"/></formal>Sexual preference: <get name="sexpref"/>Spouse name: <get name="spouse"/>Marrital status: <get name="married"/>Job: <get name="job"/>Location: <formal><get name="location"/></formal>Personality: <get name="personality"/>Current mood: <get name="usermood"/>You have: <get name="has"/>Does: <get name="does"/>Sign: <formal><get name="sign"/></formal>Favorite color: <formal><get name="favcolor"/></formal>Favorite movie: <formal><get name="favmovie"/></formal>You said: <get name="memory"/>You are: <get name="is"/>You want: <get name="want"/>You like: <get name="like"/>You are: <get name="userhealth"/></template>
+<template>
+Name: <get name="name"/>
+Age: <get name="age"/>
+Gender: <get name="gender"/>
+Eye color: <formal><get name="eyecolor"/></formal>
+Hair color: <formal><get name="haircolor"/></formal>
+Sexual preference: <get name="sexpref"/>
+Spouse name: <get name="spouse"/>
+Marrital status: <get name="married"/>
+Job: <get name="job"/>
+Location: <formal><get name="location"/></formal>
+Personality: <get name="personality"/>
+Current mood: <get name="usermood"/>
+You have: <get name="has"/>
+Does: <get name="does"/>
+Sign: <formal><get name="sign"/></formal>
+Favorite color: <formal><get name="favcolor"/></formal>
+Favorite movie: <formal><get name="favmovie"/></formal>
+You said: <get name="memory"/>
+You are: <get name="is"/>
+You want: <get name="want"/>
+You like: <get name="like"/>
+You are: <get name="userhealth"/>
+</template>
 </category>
 
 <category>

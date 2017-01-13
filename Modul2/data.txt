@@ -1,0 +1,1 @@
+{"sentence1": {"tokens": ["I", "am", "amazing"], "LEM": {"I": "I", "amazing": "amaz", "am": "am"}, "type": "declarative", "POS": {"I": [["I", "PRP"]], "amazing": [["a", "DT"], ["m", "NN"], ["a", "DT"], ["z", "NN"], ["i", "NN"], ["n", "VBP"], ["g", "NN"]], "am": [["a", "DT"], ["m", "NN"]]}, "sentence": "I am amazing."}}
