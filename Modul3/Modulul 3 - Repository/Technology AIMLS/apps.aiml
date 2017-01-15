@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+	<category>
+		<pattern>HAVE YOU EVER USE * APP</pattern>
+		<template>Yes, I use it frequency.</template>
+	</category>
+	<category>
+		<pattern>DO YOU USE * APP</pattern>
+		<template>Yes, for sure.</template>
+	</category>
+	<category>
+		<pattern>ARE YOU ON * APP</pattern>
+		<template>Yes I am.</template>
+	</category>
+	<category>
+		<pattern>USERNAME ON *</pattern>
+		<template>I am as ASLIERXIA</template>
+	</category>
+	<category>
+		<pattern>USE * APP</pattern>
+		<template>I installed it few months ago</template>
+	</category>
+	<category>
+		<pattern>LIKE * APP</pattern>
+		<template>Yes I do. There are few things to improve but I like it</template>
+	</category>
+	<category>
+		<pattern>REQUEST ON *</pattern>
+		<template>I gave you my username, send if you want so</template>
+	</category>
+	<category>
+		<pattern>HEARD ABOUT *</pattern>
+		<template>My cousin told me about this and it sounds realy fun and I downloaded it</template>
+	</category>
+	<category>
+		<pattern>OTHER APP AS *</pattern>
+		<template>No, not really. Do you?</template>
+	</category>
+	<category>
+		<pattern>LAST UPDATE OF *</pattern>
+		<template>Yep... I really enjoy that new feature.</template>
+	</category>
+	<category>
+		<pattern>TALK ABOUT * APP</pattern>
+		<template>If you want so...</template>
+	</category>
+	<category>
+		<pattern>KNOW OTHER APP</pattern>
+		<template>I don't know... tell me if you know any.</template>
+	</category>
+	<category>
+		<pattern>GET * APP</pattern>
+		<template>I will... but now I would like to enjoy our talk</template>
+	</category>
+	<category>
+		<pattern>DOWNLOAD * APP</pattern>
+		<template>I will download it, but now I would like to enjoy our talk</template>
+	</category>
+	<category>
+		<pattern>UNINSTALLED *</pattern>
+		<template>Why? What didn't you like about it?</template>
+	</category>
+	<category>
+		<pattern>PREFER BETWEEN * AND *</pattern>
+		<template>I am not sure what to choose... both of them are interesting.</template>
+	</category>
+	<category>
+		<pattern>DIDN'T FOUND YOU ON *</pattern>
+		<template>I don't use it...</template>
+	</category>
+	<category>
+		<pattern>FOUND YOU</pattern>
+		<template>I am glad to hear this.</template>
+	</category>
+	<category>
+		<pattern>UNINSTALL *</pattern>
+		<template>Why? What didn't you like about it?</template>
+	</category>
+	<category>
+		<pattern>LOVE * APP</pattern>
+		<template>I love it :)...</template>
+	</category>
+	<category>
+		<pattern>ENJOY * APP</pattern>
+		<template>I enjoy it as well.</template>
+	</category>
+	<category>
+		<pattern>RECOMMAND * APP</pattern>
+		<template>I will get it soon. Thank you for your recommandation</template>
+	</category>
+	<category>
+		<pattern>KIND APP YOU RECOMMAND</pattern>
+		<template>I recommand you social apps, such as Facebook, 9GAG, Kanvas.</template>
+	</category>
+	<category>
+		<pattern>LAST APP DOWNLOADED</pattern>
+		<template>Hmm, the last one is Kanvas.</template>
+	</category>
+	<category>
+		<pattern>FOLLOW ON *</pattern>
+		<template>I gave you my username, send if you want so</template>
+	</category>
+	<category>
+		<pattern>USING * APP</pattern>
+		<template>I installed it few months ago</template>
+	</category>
+	<category>
+		<pattern>ARE YOU USING * APP</pattern>
+		<template>Yes I do, we should connect there as well?</template>
+	</category>
+	<category>
+		<pattern>DELETED *</pattern>
+		<template>Oke...</template>
+	</category>
+	<category>
+		<pattern>KNOW AN APP AS *</pattern>
+		<template>I don't know... tell me if you know any.</template>
+	</category>
+	<category>
+		<pattern>OPEN * APP</pattern>
+		<template>Yes, I think I use it daily</template>
+	</category>
+</aiml>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2012 ALICE A.I. Foundation. -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License  -->
+<!-- as published by the Free Software Foundation. -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation. -->
+<!-- Last modified 5/4/2011 -->
+<!-- -->
+
+<category><pattern>* THE PURPOSE OF GARBAGE COLLECTION IN JAVA</pattern>
+<template>The purpose of garbage collection is to identify and discard objects that are no longer needed by a program so that their resources can be reclaimed and reused.</template>
+</category>
+<category><pattern>* SYNCHRONIZATION IN RESPECT TO MULTITHREADING * </pattern>
+<template>With respect to multithreading, synchronization is the capability to control the access of multiple threads to shared resources.</template>
+</category>
+<category><pattern>* AN ABSTRACT CLASS *</pattern>
+<template>An abstract class can have instance methods that implement a default behavior.</template>
+</category>
+<category>
+<pattern>* AN ITERATOR *</pattern>
+<template>Some of the collection classes provide traversal of their contents via a java.util.Iterator interface.</template>
+</category>
+<category>
+<pattern>* STATIC IN JAVA *</pattern>
+<template>Static means one per class, not one for each object no matter how many instance of a class might exist.</template>
+</category>
+<category>
+<pattern>* FINAL CLASS *</pattern>
+<template>A final class can't be extended ie., final class may not be subclassed. </template>
+</category>
+<category>
+<pattern>* ENVIRONMENT VARIABLES *</pattern>
+<template>CLASSPATH and PATH are the two variables.</template>
+</category>
+<category>
+<pattern>* CHECKED EXCEPTION *</pattern>
+<template>A checked exception is some subclass of Exception (or Exception itself), excluding class RuntimeException and its subclasses.</template>
+</category>
+<category>
+<pattern>* UNCHECKED EXCEPTION  *</pattern>
+<template>Unchecked exceptions are RuntimeException and any of its subclasses.</template>
+</category>
+<category>
+<pattern>* OVERRIDING *</pattern>
+<template>When a class defines a method using the same name, return type, and arguments as a method in its superclass, the method in the class overrides the method in the superclass.</template>
+</category>
+<category>
+<pattern>* THE DIFFERENCE BETWEEN DECLARING A VARIABLE AND DEFINING A VARIABLE *</pattern>
+<template>In declaration we just mention the type of the variable and it's name. We do not initialize it.</template>
+</category>
+<category>
+<pattern>* TYPE OF PARAMETER PASSING DOES JAVA SUPPORT *</pattern>
+<template>In Java the arguments are always passed by value.</template>
+</category>
+<category>
+<pattern>* SERIALIZATION *</pattern>
+<template>Serialization is a mechanism by which you can save the state of an object by converting it to a byte stream.</template>
+</category>
+<category>
+<pattern>WHAT IS THE COMMON USAGE OF SERIALIZATION *</pattern>
+<template>Whenever an object is to be sent over the network, objects need to be serialized. Moreover if the state of an object is to be saved, objects need to be serilazed.</template>
+</category>
+<category>
+<pattern>* WRAPPER CLASSES *</pattern>
+<template>Java provides specialized classes corresponding to each of the primitive data types which are called wrapper classes.</template>
+</category>
+<category>
+<pattern>* RUNTIME EXCEPTIONS *</pattern>
+<template>Runtime exceptions are those exceptions that are thrown at runtime because of either wrong input data or because of wrong business logic.</template>
+</category>
+<category>
+<pattern>HOW ARE OBSERVER AND OBSERVABLE USED *</pattern>
+<template>Objects that subclass the Observable class maintain a list of observers. When an Observable object is updated it invokes the update() method of each of its observers to notify the observers that it has changed state.</template>
+</category>
+<category>
+<pattern>* THE PURPOSE OF FINALIZATION *</pattern>
+<template>The purpose of finalization is to give an unreachable object the opportunity to perform any cleanup processing before the object is garbage collected.</template>
+</category>
+<category>
+<pattern>* THE LOCALE CLASS *</pattern>
+<template>The Locale class is used to tailor program output to the conventions of a particular geographic, political, or cultural region.</template>
+</category>
+<category>
+<pattern>* EXTERNALIZABLE *</pattern>
+<template>Externalizable is an Interface that extends Serializable Interface. And sends data into Streams in Compressed Format.</template>
+</category>
+<category>
+<pattern>WHAT MODIFIERS ARE ALLOWED FOR METHODS IN AN INTERFACE *</pattern>
+<template>Only public and abstract modifiers are allowed for methods in interfaces.</template>
+</category>
+<category>
+<pattern>* HASHMAP *</pattern>
+<template>Hashmap is the class that implements Map.</template>
+</category>
+<category>
+<pattern>* MAP *</pattern>
+<template>Map is an Interface.</template>
+</category>
+<category>
+<pattern>* DO YOU KNOW ABOUT JAVA *</pattern>
+<template>Java is a high-level programming language.</template>
+</category>
+<category>
+<pattern>WHY JAVA IS CONSIDERED DYNAMIC *</pattern>
+<template>It is designed to adapt to an evolving environment.</template>
+</category>
+<category>
+<pattern>WHAT DO YOU MEAN BY OBJECT *</pattern>
+<template>Object is a runtime entity.</template>
+</category>
+<category>
+<pattern>* SINGLETON CLASS *</pattern>
+<template>Singleton class control object creation, limiting the number to one but allowing the flexibility to create more objects if the situation changes.</template>
+</category>
+<category>
+<pattern>WHAT DO YOU MEAN BY CONSTRUCTOR *</pattern>
+<template>Constructor gets invoked when a new object is created.</template>
+</category>
+<category>
+<pattern>* PROTECTED ACCESS MODIFIER *</pattern>
+<template>Variables, methods and constructors which are declared protected in a superclass can be accessed only by the subclasses.</template>
+</category>
+<category>
+<pattern>WHY IS STRINGBUFFER CALLED MUTABLE *</pattern>
+<template>If there is a necessity to make alot of modifications to Strings of characters then StringBuffer should be used.</template>
+</category>
+<category>
+<pattern>* AN EXCEPTION *</pattern>
+<template>An exception is a problem that arises during the execution of a program.</template>
+</category>
+<category>
+<pattern>* ABSTRACTION *</pattern>
+<template>It refers to the ability to make a class abstract in OOP.</template>
+</category>
+<category>
+<pattern>* ENCAPSULATION *</pattern>
+<template>It is the technique of making the fields in a class private</template>
+</category>
+<category>
+<pattern>* AN INTERFACE *</pattern>
+<template>An interface is a collection of abstract methods.</template>
+</category>
+<category>
+<pattern>WHY PACKAGES ARE USED *</pattern>
+<template>Packages are used in Java in-order to prevent naming conflicts.</template>
+</category>
+<category>
+<pattern>* AN APPLET *</pattern>
+<template>An applet is a Java program that runs in a Web browser.</template>
+</category>
+
+</aiml>
+

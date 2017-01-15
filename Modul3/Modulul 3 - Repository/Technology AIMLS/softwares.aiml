@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+	<category>
+		<pattern>PHOTO * RECOMMAND</pattern>
+		<template>I HIGHLY RECOMMAND PHOTOSHOP. MAYBE IS HARD TO UNDERSTAND AT THE BEGINNING BUT IS A VERY GOOD ONE.</template>
+	</category>
+	<category>
+		<pattern>MUSIC * RECOMMAND</pattern>
+		<template>IF YOU WANT A FREE ONE I RECOMMAND YOU AUDACITY. IF YOU WANT A MORE QUALITY ONE, I RECOMMAND YOU ADOBE AUDITION.</template>
+	</category>
+	<category>
+		<pattern>VIDEO * RECOMMAND</pattern>
+		<template>I RECOMMAND YOU ADOBE PREMIER PRO. IT WORKS GREAT!</template>
+	</category>
+	<category>
+		<pattern>MUSIC EDITING SOFTWARES</pattern>
+		<template>HERE YOU HAVE A LIST OF THEM: AUDACITY, POWER SOUND EDITOR, WAVEPAD, ADOBE AUDITION, SOUND FORGE.</template>
+	</category>
+	<category>
+		<pattern>DOWNLOAD FREE SOFTWARES</pattern>
+		<template>YOU SHOULD DOWNLOAD SOFTWARE ONLY FROM THEIR OFFICIAL WEBSITE. AVOID ANY KIND OF PORTALS.</template>
+	</category>
+	<category>
+		<pattern>DOWNLOAD PAID SOFTWARE FOR FREE</pattern>
+		<template>I HIGHLY RECOMMAND YOU TO USE FREE ONES INSTEAD OF GETTING THEM FOR FREE FROM DIFFERENT SOURCES.</template>
+	</category>
+	<category>
+		<pattern>ANTIVIRUS * DOWNLOAD</pattern>
+		<template>IF YOU WANT A FREE ONE YOU CAN USE BITDEFENDER, THEY HAVE A FREE VERSION. IF YOU WANT TO BUT ONE, I RECOMMAND YOU KASPERSKY.</template>
+	</category>
+	<category>
+		<pattern>* EMAIL PROVIDER *</pattern>
+		<template>YOU SHOULD USE GMAIL. IT WORKS REALLY GREAT AND THEY A VERY GOOD SPAM FILTER.</template>
+	</category>
+	<category>
+		<pattern>* YAHOO *</pattern>
+		<template>AS YOU KNOW, YAHOO HAD BENN SOLD. THEY ARE VERY INSTABLE AT THE MOMENT.</template>
+	</category>
+	<category>
+		<pattern>* ABOUT SLACK *</pattern>
+		<template>SLACK IS A CLOUD-BASED TEAM COLLABORATION TOOL.</template>
+	</category>
+	<category>
+		<pattern>CHAT * RECOMMAND</pattern>
+		<template>I RECOMMAND YOU SLACK. IT CAN BE INTEGRATED WITH MULTIPLE OTHER CHATING SOFTWARES AND IT IS WORKING REALLY GOOD</template>
+	</category>
+	<category>
+		<pattern>SHOULD I USE CALENDAR</pattern>
+		<template>YES, FOR SURE. PLANNING YOUR TIME IS VERY IMPORTANT.</template>
+	</category>
+	<category>
+		<pattern>PLANNING * USE</pattern>
+		<template>YOU SHOULD TRY ASANA. IT LOOK PRETTY NICE AND IT IS VERY USEFULL.</template>
+	</category>
+	<category>
+		<pattern>OFFICE * USE</pattern>
+		<template>IF YOU DON'T WANT TO SPENT MONEY YOU SHOULD TRY OPEN OFFICE OR LIBRA OFFICE. THEY ARE OPEN SOURCE AND EASY TO USE. ALSO IF YOU WANT TO SPENT SOME MONEY YOU CAN TRY MICROSOFT OFFICE.</template>
+	</category>
+	<category>
+		<pattern>* SHOULD I DOWNLOAD LAST VERSION *</pattern>
+		<template>HMM... FIRST OF ALL YOU SHOULD CHECK THEIR FORUM AND TAKE A LOOK AT THE USERS FEEDBACK.</template>
+	</category>
+	<category>
+		<pattern>* ABOUT SUBLIME *</pattern>
+		<template>SUBLIME TEXT IS A PROPRIETARY CROSS-PLATFORM SOURCE CODE EDITOR WITH A PYTHON APPLICATION PROGRAMMING INTERFACE (API). IT NATIVELY SUPPORTS MANY PROGRAMMING LANGUAGES AND MARKUP LANGUAGES, AND ITS FUNCTIONALITY CAN BE EXTENDED BY USERS WITH PLUGINS, TYPICALLY COMMUNITY-BUILT AND MAINTAINED UNDER FREE-SOFTWARE LICENSES.</template>
+	</category>
+	<category>
+		<pattern>LAST MACOS VERSION</pattern>
+		<template>LAST VERSION OF MACOS IS SIERRA.</template>
+	</category>
+	<category>
+		<pattern>PHOTO EDITING SOFTWARES</pattern>
+		<template>SURE. HERE YOU HAVE A LIST OF THEM: AFFINITY PHOTO, PHOTOSHOP CC, PIXLR, SERIF PHOTOPLUS, ACORN.</template>
+	</category>
+	<category>
+		<pattern>* YOUTUBE DOWNLOADER *</pattern>
+		<template>I DON'T RECOMMAND YOU TO USE THIS KIND OF SOFTWARES. IT BREAKS THE LAW.</template>
+	</category>
+	<category>
+		<pattern>* TORRENT *</pattern>
+		<template>YOU SHOULDN'T USE THIS KIND OF SOFTWARE.</template>
+	</category>
+	<category>
+		<pattern>* COMPUTER IS INFECTED *</pattern>
+		<template>YOU SHOULD DOWNLOAD AN ANTIVIRUS. TRY BITDEFENDER. THEY HAVE A FREE VERSION AND YOU CAN USE IT TO CLEAN UP YOUR COMPUTER AND PROTECT YOU FROM NOW ON.</template>
+	</category>
+	<category>
+		<pattern>MUSIC CONVERSION * SOFTWARE</pattern>
+		<template>YOU SHOULD USE FREE AUDIO CONVERTER. IT SUPPORTS ALL POPULAR AUDIO FILE FORMATS</template>
+	</category>
+	<category>
+		<pattern>* CLEAN * COMPUTER</pattern>
+		<template>TRY CCLEANER. THEY HAVE A FREE VERSION AND IT WORKS GREAT.</template>
+	</category>
+	<category>
+		<pattern>WINDOWS * INSTALL</pattern>
+		<template>IT DEPPENDS BY YOUR CONFIGURATION... BUT IF YOUR COMPUTER IS NOT VERY OLD YOU SHOULD USE WINDOWS 10. IT WORKS GREAT.</template>
+	</category>
+	<category>
+		<pattern>LINUX OR WINDOWS</pattern>
+		<template>IT DEPENDS WHAT YOU HAVE TO DO. THINK ABOUT WHAT DO YOU NEED IT.</template>
+	</category>
+	<category>
+		<pattern>LAST WINDOWS VERSION</pattern>
+		<template>WINDOWS 10. WHY DO YOU ASK?</template>
+	</category>
+	<category>
+		<pattern>BROWSER * RECOMMAND</pattern>
+		<template>CHROME IS WORKING AWESOME BUT IF YOU WANT AN BROWSER WITH LESS SYSTEM REQUIRMENTS YOU CAN USE MOZILLA.</template>
+	</category>
+	<category>
+		<pattern>VIDEO CONVERSION * RECOMMAND</pattern>
+		<template>YOU SHOULD TRY FREEMAKE VIDEO CONVERTOR. IT IS QUICK, FLEXIBLE AND EASY TO USE.</template>
+	</category>
+	<category>
+		<pattern>* SOFTWARE * LEARN TO USE</pattern>
+		<template>IT DEPENDS ON WHAT YOU WANT TO DO. IF YOU WANT TO EDIT PHOTOS YOU SHOULD LEARN PHOTOSHOP, IF YOU WANT TO EDIT MOVIES YOU SHOULD LEARN ADOBE PREMIER PRO</template>
+	</category>
+	<category>
+		<pattern>FILE CONVERSION * RECOMMAND</pattern>
+		<template>THERE IS A VERY POPULAR SOFTWARE NAMED ALL FILE TO ALL FILE CONVERTER. IT SUPPORTS MANY FORMATS.</template>
+	</category>
+</aiml>

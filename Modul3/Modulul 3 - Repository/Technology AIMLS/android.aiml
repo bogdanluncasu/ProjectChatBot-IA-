@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file name:  -->
+<aiml version="1.0">
+  <category>
+    <pattern>*WHAT IS ANDROID*</pattern>
+    <template>It is an open-sourced operating system that is used primarily on mobile devices, such as cell phones and tablets. It is a Linux kernel-based system that's been equipped with rich components that allows developers to create and run apps that can perform both basic and advanced functions.</template>
+  </category>
+  <category>
+    <pattern>* THE GOOGLE ANDROID SDK*</pattern>
+    <template>The Google Android SDK is a toolset that developers need in order to write apps on Android enabled devices. It contains a graphical interface that emulates an Android driven handheld environment, allowing them to test and debug their codes.</template>
+  </category>
+  <category>
+    <pattern>*ANDROID ARCHITECTURE*</pattern>
+    <template>Android Architecture is made up of 4 key components:
+– Linux Kernel
+– Libraries
+– Android Framework
+– Android Applications</template>
+  </category>
+  <category>
+    <pattern>*ANDROID FRAMEWORK*</pattern>
+    <template>The Android Framework is an important aspect of the Android Architecture. Here you can find all the classes and methods that developers would need in order to write applications on the Android environment.</template>
+  </category>
+  <category>
+    <pattern>*WHAT IS AAPT*</pattern>
+    <template>AAPT is short for Android Asset Packaging Tool. This tool provides developers with the ability to deal with zip-compatible archives, which includes creating, extracting as well as viewing its contents.</template>
+  </category>
+  <category>
+    <pattern>*IMPORTANCE * EMULATOR * ANDROID*</pattern>
+    <template>The emulator lets developers "play" around an interface that acts as if it were an actual mobile device. They can write and test codes, and even debug. Emulators are a safe place for testing codes especially if it is in the early design phase.</template>
+  </category>
+  <category>
+    <pattern>*DESCRIBE ACTIVITIES*</pattern>
+    <template>Activities are what you refer to as the window to a user interface. Just as you create windows in order to display output or to ask for an input in the form of dialog boxes, activities play the same role, though it may not always be in the form of a user interface.</template>
+  </category>
+  <category>
+    <pattern>*DIFFERENTIATE ACTIVITIES FROM SERVICES*</pattern>
+    <template>Activities can be closed, or terminated anytime the user wishes. On the other hand, services are designed to run behind the scenes, and can act independently. Most services run continuously, regardless of whether there are certain or no activities being executed.</template>
+  </category>
+  <category>
+    <pattern>* IMPORTANT * ANDROID PROJECT*</pattern>
+    <template>These are the essential items that are present each time an Android project is created:
+– AndroidManifest.xml
+– build.xml
+– bin/
+– src/
+– res/
+– assets/</template>
+  </category>
+  <category>
+    <pattern>*IMPORTANCE * XML-BASED LAYOUTS*</pattern>
+    <template>The use of XML-based layouts provides a consistent and somewhat standard means of setting GUI definition format. In common practice, layout details are placed in XML files while other items are placed in source files.</template>
+  </category>
+  <category>
+    <pattern>*WHAT ARE CONTAINERS*</pattern>
+    <template>Containers, as the name itself implies, holds objects and widgets together, depending on which specific items are needed and in what particular arrangement that is wanted. Containers may hold labels, fields, buttons, or even child containers, as examples.</template>
+  </category>
+  <category>
+    <pattern>*WHAT IS ORIENTATION*</pattern>
+    <template>Orientation, which can be set using setOrientation(), dictates if the LinearLayout is represented as a row or as a column. Values are set as either HORIZONTAL or VERTICAL.</template>
+  </category>
+  <category>
+    <pattern>* DISADVANTAGES * ANDROID*</pattern>
+    <template>Given that Android is an open-source platform, and the fact that different Android operating systems have been released on different mobile devices, there's no clear cut policy to how applications can adapt with various OS versions and upgrades. One app that runs on this particular version of Android OS may or may not run on another version. Another disadvantage is that since mobile devices such as phones and tabs come in different sizes and forms, it poses a challenge for developers to create apps that can adjust correctly to the right screen size and other varying features and specs.</template>
+  </category>
+  <category>
+    <pattern>*ADB*</pattern>
+    <template>Adb is short for Android Debug Bridge. It allows developers the power to execute remote shell commands. Its basic function is to allow and control communication towards and from the emulator port.</template>
+  </category>
+  <category>
+    <pattern>* ESSENTIAL STATES * ACTIVITY*</pattern>
+    <template> Active – if the activity is at the foreground
+– Paused – if the activity is at the background and still visible
+– Stopped – if the activity is not visible and therefore is hidden or obscured by another activity
+– Destroyed – when the activity process is killed or completed terminated</template>
+  </category>
+  <category>
+    <pattern>* FUNCTION * INTENT FILTER*</pattern>
+    <template>Because every component needs to indicate which intents they can respond to, intent filters are used to filter out intents that these components are willing to receive. One or more intent filters are possible, depending on the services and activities that is going to make use of it.</template>
+  </category>
+  <category>
+    <pattern>*KEY LOOPS * MONITORING * ACTIVITY*</pattern>
+    <template>- Entire lifetime – activity happens between onCreate and onDestroy
+– Visible lifetime – activity happens between onStart and onStop
+– Foreground lifetime – activity happens between onResume and onPause</template>
+  </category>
+  <category>
+    <pattern>*WHEN IS * ONSTOP() * INVOKED*</pattern>
+    <template>A call to onStop method happens when an activity is no longer visible to the user, either because another activity has taken over or if in front of that activity.</template>
+  </category>
+  <category>
+    <pattern>* ROLE * DALVIK* ANDROID DEVELOPMENT</pattern>
+    <template>Dalvik serves as a virtual machine, and it is where every Android application runs. Through Dalvik, a device is able to execute multiple virtual machines efficiently through better memory management.</template>
+  </category>
+  <category>
+    <pattern>* ANDROIDMANIFESTXML*</pattern>
+    <template>This file is essential in every application. It is declared in the root directory and contains information about the application that the Android system must know before the codes can be executed.</template>
+  </category>
+  <category>
+    <pattern>*WAY *SETTING UP *ANDROID * DEVICE * APP DEVELOPMENT*</pattern>
+    <template>-Declare your application as "debuggable" in your Android Manifest.
+-Turn on “USB Debugging” on your device.
+-Set up your system to detect your device.</template>
+  </category>
+  <category>
+    <pattern>* IMPORTANCE * DEFAULT RESOURCES*</pattern>
+    <template>When default resources, which contain default strings and files, are not present, an error will occur and the app will not run. Resources are placed in specially named subdirectories under the project res/ directory.</template>
+  </category>
+  <category>
+    <pattern>*WHAT * FRAGMENT*</pattern>
+    <template>A fragment is a part or portion of an activity. It is modular in a sense that you can move around or combine with other fragments in a single activity. Fragments are also reusable.</template>
+  </category>
+  <category>
+    <pattern>*VISIBLE ACTIVITY*</pattern>
+    <template>A visible activity is one that sits behind a foreground dialog. It is actually visible to the user, but not necessarily being in the foreground itself.</template>
+  </category>
+  <category>
+    <pattern>* REMOVE ICONS  * SCREEN * ANDROID DEVICE</pattern>
+    <template>To remove an icon or shortcut, press and hold that icon. You then drag it downwards to the lower part of the screen where a remove button appears.</template>
+  </category>
+  <category>
+    <pattern>*CORE COMPONENTS * ANDROID APPLICATION ARCHITECTURE*</pattern>
+    <template>There are 5 key components under the Android application architecture:
+– services
+– intent
+– resource externalization
+– notifications
+– content providers</template>
+  </category>
+  <category>
+    <pattern>*ANDROID APPLICATION PROJECT*</pattern>
+    <template>A project under Android development, upon compilation, becomes an .apk file. This apk file format is actually made up of the AndroidManifest.xml file, application code, resource files, and other related files.</template>
+  </category>
+  <category>
+    <pattern>*DIFFERENCE *  REGULAR BITMAP *NINE-PATCH IMAGE*</pattern>
+    <template>In general, a Nine-patch image allows resizing that can be used as background or other image size requirements for the target device. The Nine-patch refers to the way you can resize the image: 4 corners that are unscaled, 4 edges that are scaled in 1 axis, and the middle one that can be scaled into both axes.</template>
+  </category>
+  <category>
+    <pattern>*LANGUAGE * SUPPORTED BY ANDROID FOR APPLICATION*</pattern>
+    <template>The main language supported is Java programming language. Java is the most popular language for app development, which makes it ideal even for new Android developers to quickly learn to create and deploy applications in the Android environment.</template>
+  </category>
+</aiml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category><pattern>WHAT IS PYTHON</pattern>
+<template><srai>Python is a widely used high-level programming language used for general-purpose programming. </srai></template>
+</category>
+<category><pattern>WHO CREATED PYTHON</pattern>
+<template><srai> Guido van Rossum and first released in 1991. </srai></template>
+</category>
+<category><pattern>WHAT YOU KNOW ABOUT * PYTHON 2.0 </pattern>
+<template><srai>Python 2.0 was released on 16 October 2000 and had many major new features, including a cycle-detecting garbage collector and support for Unicode.</srai></template>
+</category>
+<category><pattern>WHAT YOU KNOW ABOUT * PYTHON </pattern>
+<template><srai>Python is a multi-paradigm programming language: object-oriented programming and structured programming are fully supported, and many language features support functional programming and aspect-oriented programming </srai></template>
+</category>
+<category><pattern>WHAT YOU KNOW ABOUT * PYTHON INDENTATION </pattern>
+<template><srai>Python uses whitespace indentation to delimit blocks – rather than curly braces or keywords.</srai></template>
+</category>
+<category><pattern>WHAT YOU KNOW ABOUT * PYTHON METHODS </pattern>
+<template><srai>Methods on objects are functions attached to the object's class; the syntax instance.method(argument) is, for normal methods and functions, syntactic sugar for Class.method(instance, argument). </srai></template>
+</category>
+<category><pattern>WHAT YOU KNOW ABOUT * PYTHON LIBRARIES </pattern>
+<template><srai>Python has a large standard library, commonly cited as one of Python's greatest strengths, providing tools suited to many tasks. </srai></template>
+</category>
+<category><pattern>IS PYTHON OPEN-SOURCE</pattern>
+<template><srai>Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.</srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE OF * PYTHONPATH ENVIRONMENT VARIABLE </pattern>
+<template><srai> This variable tells the Python interpreter where to locate the module files imported into a program. </srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE OF * PYTHONSTARTUP ENVIRONMENT VARIABLE </pattern>
+<template><srai>It contains the path of an initialization file containing Python source code. It is executed every time you start the interpreter.</srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE OF *PYTHONCASEOK ENVIRONMENT VARIABLE </pattern>
+<template><srai>It is used in Windows to instruct Python to find the first case-insensitive match in an import statement. </srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE OF * PYTHONHOME ENVIRONMENT VARIABLE </pattern>
+<template><srai>It is an alternative module search path. It is usually embedded in the PYTHONSTARTUP or PYTHONPATH directories to make switching module libraries easy.</srai></template>
+</category>
+<category><pattern>IS PYTHON A CASE SENSITIVE LANGUAGE</pattern>
+<template><srai>Yes! Python is a case sensitive programming language.</srai></template>
+</category>
+<category><pattern>WHAT ARE THE SUPPORTED * DATA TYPES IN PYTHON </pattern>
+<template><srai>Python has five standard data types: Numbers,String,List,Tuple,Dictionary</srai></template>
+</category>
+<category><pattern>WHAT ARE TUPLES IN PYTHON </pattern>
+<template><srai>A tuple is another sequence data type that is similar to the list. A tuple consists of a number of values separated by commas. </srai></template>
+</category>
+<category><pattern>WHAT IS THE DIFFERENCE BETWEEN TUPLES AND LISTS IN PYTHON </pattern>
+<template><srai>The main differences between lists and tuples are − Lists are enclosed in brackets ( [ ] ) and their elements and size can be changed, while tuples are enclosed in parentheses ( ( ) ) and cannot be updated. </srai></template>
+</category>
+<category><pattern>WHAT ARE * PYTHON'S DICTIONARIES </pattern>
+<template><srai>Python's dictionaries are kind of hash table type. They work like associative arrays or hashes found in Perl and consist of key-value pairs. </srai></template>
+</category>
+<category><pattern>HOW WILL YOU CREATE A * DICTIONARY IN PYTHON </pattern>
+<template><srai>Dictionaries are enclosed by curly braces ({ }) and values can be assigned and accessed using square braces ([]).</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT A * STRING TO AN INT IN PYTHON </pattern>
+<template><srai>int(x [,base]) - Converts x to an integer. base specifies the base if x is a string.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT A * STRING TO A LONG IN PYTHON </pattern>
+<template><srai>long(x [,base] ) - Converts x to a long integer. base specifies the base if x is a string.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT A * STRING TO A FLOAT IN PYTHON </pattern>
+<template><srai>float(x) − Converts x to a floating-point number.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT A * OBJECT TO A STRING IN PYTHON </pattern>
+<template><srai>str(x) − Converts object x to a string representation.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT A * OBJECT TO A REGULAR EXPRESSION IN PYTHON </pattern>
+<template><srai>repr(x) − Converts object x to an expression string.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT * A STRING TO AN OBJECT IN PYTHON </pattern>
+<template><srai>eval(str) − Evaluates a string and returns an object.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT * A STRING TO A TUPLE IN PYTHON </pattern>
+<template><srai>tuple(s) − Converts s to a tuple.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT * A STRING TO A LIST IN PYTHON </pattern>
+<template><srai>list(s) − Converts s to a list.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT * A STRING TO A SET IN PYTHON </pattern>
+<template><srai>set(s) − Converts s to a set.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CREATE * A DICTIONARY USING TUPLES IN PYTHON </pattern>
+<template><srai>dict(d) − Creates a dictionary. d must be a sequence of (key,value) tuples.</srai></template>
+</category>
+<category><pattern>HOW WILL YOU CONVERT * A STRING TO A FROZEN SET IN PYTHON </pattern>
+<template><srai>frozenset(s) − Converts s to a frozen set.</srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE * PASS STATEMENT IN PYTHON </pattern>
+<template><srai>The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute.</srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE * BREAK STATEMENT IN PYTHON </pattern>
+<template><srai>Terminates the loop statement and transfers execution to the statement immediately following the loop.</srai></template>
+</category>
+<category><pattern>HOW CAN YOU GET * A RANDOM NUMBER IN PYTHON </pattern>
+<template><srai>random() − returns a random float r, such that 0 is less than or equal to r and r is less than 1.</srai></template>
+</category>
+
+
+</aiml>

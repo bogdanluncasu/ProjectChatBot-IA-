@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category><pattern>WHAT IS MEDICINE</pattern>
+<template>Medicine is the science and practice of the diagnosis, treatment, and prevention of disease.</template>
+</category>
+<category><pattern>WHAT IS * HEALTH ISSUE</pattern>
+<template>Obesity</template>
+</category>
+<category><pattern> * CAUSES FOR OBESITY *</pattern>
+<template>Obesity is most commonly caused by a combination of excessive food intake, lack of physical activity, and genetic susceptibility.</template>
+</category>
+<category><pattern>*TREATMENTS * OBESITY*</pattern>
+<template>There are countless weight-loss strategies available but many are ineffective and short-term, particularly for those who are morbidly obese.It is best to consult a nutritionist  </template>
+</category>
+<category><pattern> *MORBID OBESITY*</pattern>
+<template>Morbid obesity is a serious health condition that can interfere with basic physical functions such as breathing or walking. Those who are morbidly obese are at greater risk for illnesses including diabetes, high blood pressure, sleep apnea, gastroesophageal reflux disease (GERD), gallstones, osteoarthritis, heart disease, and cancer.</template>
+</category>
+<category><pattern>*CANCER*</pattern>
+<template>Cancer is not just one disease but many diseases. There are more than 100 different types of cancer. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast.</template>
+</category>
+<category><pattern>*BREAST CANCER*</pattern>
+<template>Breast cancer starts when cells in the breast begin to grow out of control. These cells usually form a tumor that can often be seen on an x-ray or felt as a lump. The tumor is malignant (cancerous) if the cells can grow into (invade) surrounding tissues or spread (metastasize) to distant areas of the body. Breast cancer occurs almost entirely in women, but men can get it, too.</template>
+</category>
+<category><pattern>*LUNG CANCER*</pattern>
+<template>Lung cancer is the uncontrolled growth of abnormal cells that start off in one or both lungs; usually in the cells that line the air passages. The abnormal cells do not develop into healthy lung tissue, they divide rapidly and form tumors.</template>
+</category>
+<category><pattern>*SKIN CANCER*</pattern>
+<template>Skin cancer is the uncontrolled growth of abnormal skin cells. It occurs when unrepaired DNA damage to skin cells (most often caused by ultraviolet radiation from sunshine or tanning beds) triggers mutations, or genetic defects, that lead the skin cells to multiply rapidly and form malignant tumors.</template>
+</category>
+<category><pattern>*APPENDICITIS*</pattern>
+<template>Appendicitis is inflammation of the appendix. </template>
+</category>
+<category><pattern>*SYMPTOMS * APPENDICITIS*</pattern>
+<template>Symptoms commonly include right lower abdominal pain, nausea, vomiting, and decreased appetite.</template>
+</category>
+<category><pattern>*MOST COMPLEX ORGAN * BODY*</pattern>
+<template>The most complex organ is the brain</template>
+</category>
+<category><pattern>*BRAIN*</pattern>
+<template>The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. The brain is located in the head, usually close to the sensory organs for senses such as vision.</template>
+</category>
+<category><pattern>*CELULAR STRUCTURE * BRAIN*</pattern>
+<template>The brains of all species are composed primarily of two broad classes of cells: neurons and glial cells.</template>
+</category>
+<category><pattern>*GLIAL CELLS*</pattern>
+<template> Glial cells (also known as glia or neuroglia) come in several types, and perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development. </template>
+</category>
+<category><pattern>* NEURONS *</pattern>
+<template>A neuron is an electrically excitable cell that processes and transmits information through electrical and chemical signals.</template>
+</category>
+<category><pattern>* FRACTURE*</pattern>
+<template>A fracture, also known as a broken bone, is a condition that alters the contour in the bone. </template>
+</category>
+<category><pattern>WHEN FRACTURE * HAPPEN</pattern>
+<template>People break bones in sports injuries, car accidents, falls, or from osteoporosis (bone weakening due to aging). Although most fractures are caused by trauma, they can be “pathologic” caused by an underlying disease such as cancer or severe osteoporosis. </template>
+</category>
+<category><pattern>WHAT TYPE OF FRACTURE DO YOU KNOW</pattern>
+<template>Fractures can be closed (the skin is intact) or open also called compound (the skin is open and risk of infection significant).</template>
+</category>
+<category><pattern>WHAT IS OSTEOPOROSIS</pattern>
+<template>Osteoporosis is a disease where decreased bone strength increases the risk of a broken bone. </template>
+</category>
+<category><pattern>WHAT IS A PROTEIN</pattern>
+<template>Protein is a macronutrient that is essential to building muscle mass.</template>
+</category>
+<category><pattern>WHAT IS DNA</pattern>
+<template>DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. </template>
+</category>
+<category><pattern>WHAT ARE THE COMPONENTS OF DNA</pattern>
+<template>DNA is a long molecule composed of two chains of smaller molecules called nucleotides, each which contain a region of nitrogen called the nitrogenous base, a carbon-based sugar molecule called deoxyribose and a region of phosphorus called the phosphate group. </template>
+</category>
+<category><pattern>WHAT ARE THE TYPES OF NITROGENOUS BASES</pattern>
+<template>There are four types of nitrogenous bases: adenine (abbreviated as A), thymine (abbreviated as T), guanine (abbreviated as G) and cytosine (abbreviated as C).</template>
+</category>
+<category><pattern>WHAT IS LIVER</pattern>
+<template>The liver is a gland and plays a major role in metabolism with numerous functions in the human body, including regulation of glycogen storage, decomposition of red blood cells, plasma protein synthesis, hormone production, and detoxification.</template>
+</category>
+<category><pattern>*WHAT ARE KIDNEYS*</pattern>
+<template>The kidneys are bean-shaped organs that serve several essential regulatory roles in vertebrates. Their main function is to regulate the balance of electrolytes in the blood, along with maintaining pH homeostasis.</template>
+</category>
+<category><pattern>*SPINE*</pattern>
+<template>ThE spinal column provides the main support for your body, allowing you to stand upright, bend, and twist, while protecting the spinal cord from injury. </template>
+</category>
+<category><pattern>*SPINAL CURVES*</pattern>
+<template>When viewed from the side, an adult spine has a natural S-shaped curve. The neck (cervical) and low back (lumbar) regions have a slight concave curve, and the thoracic and sacral regions have a gentle convex curve . The curves work like a coiled spring to absorb shock, maintain balance, and allow range of motion throughout the spinal column.</template>
+</category>
+<category><pattern>* LONGEST BONE * HUMAN BODY*</pattern>
+<template>The longest bone in the human body is the femur, which is also called the thigh bone. </template>
+</category>
+<category><pattern>*CELLS*</pattern>
+<template>The body contains trillions of cells, the fundamental unit of life. At maturity, there are roughly 37.2 trillion cells in the body, an estimate arrived at by totalling the cell numbers of all the organs of the body and cell types.</template>
+</category>
+<category><pattern>*CIRCULATORY SYSTEM*</pattern>
+<template>The circulatory system comprises the heart and blood vessels (arteries, veins, and capillaries). </template>
+</category>
+<category><pattern>* DIGESTIVE SYSTEM*</pattern>
+<template>The digestive system consists of the mouth including the tongue and teeth, esophagus, stomach, (gastrointestinal tract, small and large intestines, and rectum), as well as the liver, pancreas, gallbladder, and salivary glands. It converts food into small, nutritional, non-toxic molecules for distribution and absorption into the body.</template>
+</category>
+<category><pattern>* ENDOCRINE SYSTEM *</pattern>
+<template>The endocrine system consists of the principal endocrine glands: the pituitary, thyroid, adrenals, pancreas, parathyroids, and gonads, but nearly all organs and tissues produce specific endocrine hormones as well. The endocrine hormones serve as signals from one body system to another regarding an enormous array of conditions, and resulting in variety of changes of function.</template>
+</category>
+<category><pattern>* MUSCULOSKELETAL SYSTEM*</pattern>
+<template>The musculoskeletal system consists of the human skeleton (which includes bones, ligaments, tendons, and cartilage) and attached muscles. It gives the body basic structure and the ability for movement.</template>
+</category>
+<category><pattern>*REPRODUCTIVE SYSTEM*</pattern>
+<template>The reproductive system consists of the gonads and the internal and external sex organs. The reproductive system produces gametes in each sex, a mechanism for their combination, and in the female a nurturing environment for the first 9 months of development of the infant.</template>
+</category>
+<category><pattern>*RESPIRATORY SYSTEM*</pattern>
+<template>The respiratory system consists of the nose, nasopharynx, trachea, and lungs. It brings oxygen from the air and excretes carbon dioxide and water back into the air.</template>
+</category>
+<category><pattern>*URINARY SYSTEM*</pattern>
+<template>The urinary system consists of the kidneys, ureters, bladder, and urethra. It removes toxic materials from the blood to produce urine, which carries a variety of waste molecules and excess ions and water out of the body.</template>
+</category>
+<category><pattern>WHAT IS ANATOMY *</pattern>
+<template>Anatomy is the study of the shape and form of the human body. </template>
+</category>
+<category><pattern>*HUMAN HEART*</pattern>
+<template>The human heart is a responsible for pumping blood throughout our body.</template>
+</category>
+<category><pattern>* DOWN SYNDROME* </pattern>
+<template>Down syndrome (DS or DNS), also known as trisomy 21, is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21.</template>
+</category>
+<category><pattern>* LARYNGITIS*</pattern>
+<template>Laryngitis is inflammation of the larynx (voice box).Symptoms often include a hoarse voice and may include fever, cough, pain in the front of the neck, and trouble swallowing.</template>
+</category>
+<category><pattern>* AORTIC ANEURYSM *</pattern>
+<template>An aortic aneurysm is an enlargement (dilation) of the aorta to greater than 1.5 times normal size.</template>
+</category>
+<category><pattern>* MYOCARDITIS*</pattern>
+<template>Myocarditis, also known as inflammatory cardiomyopathy, is inflammation of the heart muscle.</template>
+</category>
+<category><pattern>* CONGENITAL HEART DEFECT*</pattern>
+<template>Congenital heart defect (CHD), also known as a congenital heart anomaly or congenital heart disease, is a problem in the structure of the heart that is present at birth.</template>
+</category>
+<category><pattern>* ALCOHOLISM*</pattern>
+<template>Alcoholism, also known as alcohol use disorder (AUD), is a broad term for any drinking of alcohol that results in problems.</template>
+</category>
+<category><pattern>* AMNESIA*</pattern>
+<template>Amnesia , also known as amnesic syndrome, is a deficit in memory caused by brain damage, disease, or psychological trauma.</template>
+</category>
+<category><pattern>*PERSONALITY DISORDERS*</pattern>
+<template>Personality disorders are a class of mental disorders characterized by enduring maladaptive patterns of behavior, cognition, and inner experience, exhibited across many contexts and deviating markedly from those accepted by the individual's culture.</template>
+</category>
+<category><pattern>* COMA*</pattern>
+<template>Coma is a state of unconsciousness in which a person cannot be awakened; fails to respond normally to painful stimuli, light, or sound; lacks a normal wake-sleep cycle; and does not initiate voluntary actions.</template>
+</category>
+<category><pattern>* DEMENTIA*</pattern>
+<template>Dementia, also known as senility, is a broad category of brain diseases that cause a long term and often gradual decrease in the ability to think and remember that is great enough to affect a person's daily functioning. Other common symptoms include emotional problems, problems with language, and a decrease in motivation.</template>
+</category>
+<category><pattern>* EPILEPSY*</pattern>
+<template>Epilepsy is a group of neurological diseases characterized by epileptic seizures. Epileptic seizures are episodes that can vary from brief and nearly undetectable to long periods of vigorous shaking.</template>
+</category>
+
+
+</aiml>

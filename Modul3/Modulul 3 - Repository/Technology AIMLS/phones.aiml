@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file name: phones.aiml -->
+<aiml version="1.0">
+  <category>
+    <pattern>* CAN YOU DO WITH A MOBILE PHONE *</pattern>
+    <template>You can search for information on the internet, you can pay bills and do banking and call</template>
+  </category>
+  <category>
+    <pattern>* DO YOU LIKE HAVING A MOBILE PHONE * </pattern>
+    <template>No,I am a robot and I don't need a mobile phone.</template>
+  </category>
+  <category>
+    <pattern>* DO THE LETTERS GSM CURRENTLY MEAN *</pattern>
+    <template>GSM is currently the Global system for Mobile Communications.</template>
+  </category>
+  <category>
+    <pattern>* CELLULAR NETWORKS IS THE BEST IN THE UK *</pattern>
+    <template>A customer requiring a cheaper service within the London area should get a Mercury One2One.</template>
+  </category>
+  <category>
+    <pattern>* TYPE OF BATTERY HAS THE LONGEST LIFE *</pattern>
+    <template>I know that Lithium-Ion or Li-Ion batteries have the longest life.</template>
+  </category>
+  <category>
+    <pattern>* A DUAL BAND PHONE *</pattern>
+    <template>A Dual band phone is a phone that can operate on an analog and digital service.
+</template>
+  </category>
+  <category>
+    <pattern>* A ROAMING CHARGE *</pattern>
+    <template>A roaming charge is when you make a call from outside of your calling area.</template>
+  </category>
+  <category>
+    <pattern>*  WON'T MY IPHONE SCREEN ROTATE *</pattern>
+    <template>If you're expecting your iPhone to rotate, and it isn't, check your orientation lock.</template>
+  </category>
+  <category>
+    <pattern>* THE BEST AGE TO GET A PHONE *</pattern>
+    <template>The short answer is, it depends.</template>
+  </category>
+  <category>
+    <pattern>* PHONE HAS USB SUPPORT *</pattern>
+    <template>All of them.</template>
+  </category>
+  <category>
+    <pattern>* THE BEST PHONE ON THE MARKET *</pattern>
+    <template>Samsung Galaxy S7 and Galaxy S7 Edge</template>
+  </category>
+  <category>
+    <pattern>*  HAVE NEW IPHONE7 *</pattern>
+    <template>A new unibody design that's seamless to the touch.</template>
+  </category>
+  <category>
+    <pattern>* IS APPLE A GOOD BRAND *</pattern>
+    <template>Apple has huge brand recognition, and positive reputation for quality. </template>
+  </category>
+  <category>
+    <pattern>* IS SAMSUNG A GOOD BRAND *</pattern>
+    <template> Samsung is a classic product-driven brand, but has struggled to reach.</template>
+  </category>
+  <category>
+    <pattern>* ABOUT A FLASH *</pattern>
+    <template>A good phone should have a flash.</template>
+  </category>
+  <category>
+    <pattern>* SHOULD PARENTS LIMIT KIDS' CELL PHONE USE *</pattern>
+    <template>My opinion is no.</template>
+  </category>
+  <category>
+    <pattern>* TYPES OF APPS ARE IN GOOGLE PLAY *</pattern>
+    <template>I remember that there are games, alarm apps, photos editor apps.</template>
+  </category>
+  <category>
+    <pattern>* I NEED AM ALARM APP *</pattern>
+    <template>Because you have to wake up.</template>
+  </category>
+  <category>
+    <pattern>* THE DIFFERENCE BETWEEN A MICROSOFT PHONE AND OTHERS PHONES *</pattern>
+    <template>The microsoft phone is more rezistent.</template>
+  </category>
+</aiml>

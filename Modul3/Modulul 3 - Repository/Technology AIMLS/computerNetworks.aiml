@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<category><pattern>WHAT DOES AN END SYSTEM MEAN?</pattern>
+<template>The end-system is the host. In networking jargon, the computers that are connected to a computer network are sometimes referred to as end systems.</template>
+</category>
+<category><pattern>WHAT DOES AN END-SYSTEM MEANS?</pattern>
+<template>The end-system is the host. In networking jargon, the computers that are connected to a computer network are sometimes referred to as end systems.</template>
+</category>
+<category><pattern>WHAT IS AN END SYSTEM?</pattern>
+<template>The end-system is the host. In networking jargon, the computers that are connected to a computer network are sometimes referred to as end systems.</template>
+</category>
+<category><pattern>WHAT IS AN END-SYSTEM?</pattern>
+<template>The end-system is the host. In networking jargon, the computers that are connected to a computer network are sometimes referred to as end systems.</template>
+</category>
+<category><pattern>WHAT'S A NETWORK?</pattern>
+<template>A network is a number of computers that are connected together so that they can share information.</template>
+</category>
+<category><pattern>WHAT IS A NETWORK?</pattern>
+<template>A network is a number of computers that are connected together so that they can share information.</template>
+</category>
+<category><pattern>WHAT'S A COMPUTER NETWORK?</pattern>
+<template>A computer network is a number of computers that are connected together so that they can share information.</template>
+</category>
+<category><pattern>WHAT IS A COMPUTER NETWORK?</pattern>
+<template>A computer network is a number of computers that are connected together so that they can share information.</template>
+</category>
+<category><pattern>WHAT'S TCP/IP?</pattern>
+<template>TCP/IP (Transmission Control Protocol/Internet Protocol) is the basic communication language or protocol of the Internet.</template>
+</category>
+<category><pattern>WHAT IS TCP/IP?</pattern>
+<template>TCP/IP (Transmission Control Protocol/Internet Protocol) is the basic communication language or protocol of the Internet.</template>
+</category>
+<category><pattern>WHAT DOES TCP/IP MEAN?</pattern>
+<template>TCP/IP (Transmission Control Protocol/Internet Protocol) is the basic communication language or protocol of the Internet.</template>
+</category>
+<category><pattern>WHAT'S ETHERNET?</pattern>
+<template>Ethernet is the most widely installed local area network (LAN) technology.</template>
+</category>
+<category><pattern>WHAT IS ETHERNET?</pattern>
+<template>Ethernet is the most widely installed local area network (LAN) technology.</template>
+</category>
+<category><pattern>WHAT DOES ETHERNET MEAN?</pattern>
+<template>Ethernet is the most widely installed local area network (LAN) technology.</template>
+</category>
+<category><pattern>WHAT DOES OSI MEAN?</pattern>
+<template>OSI (Open Systems Interconnection) is reference model for how applications can communicate over a network.</template>
+</category>
+<category><pattern>WHAT'S OSI?</pattern>
+<template>OSI (Open Systems Interconnection) is reference model for how applications can communicate over a network.</template>
+</category>
+<category><pattern>WHAT IS OSI?</pattern>
+<template>OSI (Open Systems Interconnection) is reference model for how applications can communicate over a network.</template>
+</category>
+<category><pattern>WHAT DOES SOCKET MEAN?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>WHAT DOES NETWORK SOCKET MEAN?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>WHAT IS A NETWORK SOCKET?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>WHAT IS A SOCKET?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>WHAT'S A NETWORK SOCKET?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>WHAT'S A SOCKET?</pattern>
+<template>A network socket is one endpoint in a communication flow between two programs running over a network.</template>
+</category>
+<category><pattern>HOW DO YOU CREATE A SOCKET?</pattern>
+<template>Sockets are created and used with a set of programming requests or "function calls" sometimes called the sockets application programming interface (API).</template>
+</category>
+<category><pattern>HOW DO YOU CREATE A NETWORK SOCKET?</pattern>
+<template>Sockets are created and used with a set of programming requests or "function calls" sometimes called the sockets application programming interface (API).</template>
+</category>
+<category><pattern>HOW CAN I CREATE A NETWORK SOCKET?</pattern>
+<template>Sockets are created and used with a set of programming requests or "function calls" sometimes called the sockets application programming interface (API).</template>
+</category>
+<category><pattern>WHAT IS I/O?</pattern>
+<template>I/O stands for input/output.</template>
+</category>
+<category><pattern>WHAT'S THE FUNDAMENTAL IDEA FOR THE I/O NETWORKS?</pattern>
+<template>Computers are based on the fundamental idea that every input results in an output.</template>
+</category>
+<category><pattern>WHAT'S UDP?</pattern>
+<template>The User Datagram Protocol (UDP) is one of the core members of the Internet protocol suite.</template>
+</category>
+<category><pattern>WHAT IS UDP?</pattern>
+<template>The User Datagram Protocol (UDP) is one of the core members of the Internet protocol suite.</template>
+</category>
+<category><pattern>WHAT DOES UDP MEAN?</pattern>
+<template>The User Datagram Protocol (UDP) is one of the core members of the Internet protocol suite.</template>
+</category>
+<category><pattern>WHAT DOES UDP STAND FOR?</pattern>
+<template>The User Datagram Protocol.</template>
+</category>
+<category><pattern>WHAT'S PORT 69?</pattern>
+<template>A transfer request is always initiated targeting port 69.</template>
+</category>
+<category><pattern>WHAT'S IEEE 802.3?</pattern>
+<template>IEEE 802.3 is a working group and a collection of IEEE standards produced by the working group defining the physical layer and data link layer's media access control (MAC) of wired Ethernet.</template>
+</category>
+<category><pattern>WHAT * IEEE 802.3 *</pattern>
+<template>IEEE 802.3 is a working group and a collection of IEEE standards produced by the working group defining the physical layer and data link layer's media access control (MAC) of wired Ethernet.</template>
+</category>
+<category><pattern>WHAT * IEEE 802.3?</pattern>
+<template>IEEE 802.3 is a working group and a collection of IEEE standards produced by the working group defining the physical layer and data link layer's media access control (MAC) of wired Ethernet.</template>
+</category>
+<category><pattern>WHAT IS IEEE 802.3 *</pattern>
+<template>IEEE 802.3 is a working group and a collection of IEEE standards produced by the working group defining the physical layer and data link layer's media access control (MAC) of wired Ethernet.</template>
+</category>
+<category><pattern>WHAT IS IEEE 802.3?</pattern>
+<template>IEEE 802.3 is a working group and a collection of IEEE standards produced by the working group defining the physical layer and data link layer's media access control (MAC) of wired Ethernet.</template>
+</category>
+<category><pattern>WHAT IS WSA?</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT IS WSA *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WSA?</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WSA *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT * WSA *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT IS WINSOCK</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT IS WINSOCK *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WINSOCK?</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WINSOCK *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT * WINSOCK *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT IS WINDOWS SOCKETS API?</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT IS WINDOWS SOCKETS API *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WINDOWS SOCKETS API?</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT'S WINDOWS SOCKETS API *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+<category><pattern>WHAT * WINDOWS SOCKETS API *</pattern>
+<template>In computing, the Windows Sockets API (WSA), which was later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.</template>
+</category>
+</aiml>
