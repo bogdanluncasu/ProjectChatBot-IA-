@@ -5,15 +5,9 @@ try:
     data="Hi.How are you?"
     dir = os.path.dirname(__file__)
     chromedriver = "C:/Users/swatch/Desktop/test-auto/chromedriver.exe"
-    print chromedriver
-    os.environ["webdriver.chrome.driver"] = chromedriver
     driver = webdriver.Chrome(chromedriver)
     driver.get('http://chatbot-lbcswatch.rhcloud.com/wasluianca.html')
 
-
-    xpaths = { 'TxtBox' : "/html/body/div[@class='wrap']/input[@id='msg']",
-           'submitButton' :   "/html/body/div[@class='wrap']/input[@id='msg']"
-         }
 
     timp_f=[0]*100
     st=0;
