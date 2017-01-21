@@ -1,0 +1,4 @@
+Input : cola ? 
+ Numar teste: 100 
+ Acelasi input: Da 
+ Timp mediu :0.477980000973
